@@ -1,0 +1,23 @@
+PODS:
+  - FCFTestTool (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - FCFTestTool (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  FCFTestTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FCFTestTool: 930a3e40ddb798f5baede7625966163000a5a5f3
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: b684b596d898c3aa3b0b5a3f59329b24e2e16e35
+
+COCOAPODS: 1.10.0

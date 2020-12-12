@@ -1,0 +1,6 @@
+framework module FCFTestTool {
+  umbrella header "FCFTestTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

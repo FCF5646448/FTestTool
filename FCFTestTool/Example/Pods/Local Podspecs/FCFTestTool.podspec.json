@@ -1,0 +1,32 @@
+{
+  "name": "FCFTestTool",
+  "version": "0.1.0",
+  "summary": "A short description of FCFTestTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FCF5646448/FCFTestTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FCF5646448": "2998000457@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/FCF5646448/FCFTestTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FCFTestTool/Classes/**/*",
+  "resource_bundles": {
+    "FCFTestTool": [
+      "FCFTestTool/Assets/*.xcassets"
+    ]
+  },
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}
